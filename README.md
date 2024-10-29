@@ -1,0 +1,2 @@
+# SAIS_PLEASANTER_SITE
+コーポレートサイト用
